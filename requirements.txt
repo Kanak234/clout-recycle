@@ -1,0 +1,9 @@
+# Actual runtime dependencies of cloth_recyclability_gui.py.
+#
+# pyproject.toml is the unmodified Replit starter template ("python-template",
+# "Your Name <you@example.com>"). It declares replit, Flask and urllib3, none
+# of which this project imports, and omits pillow, which it does. This file
+# records what the code really needs. tkinter and sqlite3 are stdlib, though
+# tkinter ships separately on some distros (Debian/Ubuntu: python3-tk).
+numpy>=1.22.2
+pillow>=9.0.0
